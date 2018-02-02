@@ -2,3 +2,4 @@
 /\.gulp-scss-cache/
 /node_modules/
 /out/
+*\.css
