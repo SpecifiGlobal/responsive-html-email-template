@@ -3,6 +3,8 @@ var scss = require("gulp-scss");
 var inlinesource = require('gulp-inline-source');
 var inlineCss = require('gulp-inline-css');
 
+gulp.task('default', [ 'inlinecss' ]);
+
 // Inline CSS rules in HTML file
 gulp.task('inlinecss', [ 'scss', 'inlinesource' ], function() {
     return gulp.src('./out/*.html')

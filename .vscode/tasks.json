@@ -6,7 +6,7 @@
         {
             "label": "build",
             "type": "gulp",
-            "task": "inlinecss",
+            "task": "default",
             "group": {
                 "kind": "build",
                 "isDefault": true
