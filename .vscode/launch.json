@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "reAttach": true,
-            "file": "${workspaceFolder}/email.html"
+            "file": "${workspaceFolder}/out/email.html"
         }
     ]
 }
