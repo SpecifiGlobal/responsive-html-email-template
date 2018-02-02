@@ -1,0 +1,9 @@
+{
+    "repository": "https://github.com/SpecifiGlobal/responsive-html-email-template",
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": "3.9.1",
+        "gulp-inline-source": "3.1.0",
+        "gulp-inline-css": "3.1.2"
+    }
+}
